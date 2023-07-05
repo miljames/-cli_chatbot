@@ -1,0 +1,20 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot powered by ChatGPT",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "corepack": "^0.17.0",
+    "dotenv": "^16.3.1",
+    "npm": "^9.5.1",
+    "openai": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jim Miller",
+  "license": "MIT"
+}
